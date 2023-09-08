@@ -1,0 +1,242 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-1-s83 {
+  width: 100%;
+  height: 101.3rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(105.56deg, #0c002a 0%, #000000 100%);
+}
+.desktop-1-s83 .shape-Eco {
+  width: 173rem;
+  height: 173rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 27.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-s83 .rectangle-1-9Dy {
+  width: 192rem;
+  height: 101.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, rgba(13, 13, 13, 0) 56.4%, rgba(12, 0, 42, 0.8999999762) 100%);
+}
+.desktop-1-s83 .codesandbox-A2b {
+  width: 3rem;
+  height: 3.3463rem;
+  position: absolute;
+  left: 14rem;
+  top: 10.9337rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-s83 .kalf-GLX {
+  width: 6.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 10.3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-s83 .company-vfy {
+  width: 9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 15rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-s83 .group-1-QzT {
+  width: 88rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53rem;
+  top: 12.4rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-s83 .group-1-QzT .item--j19 {
+  margin-right: 6.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-s83 .group-1-QzT .item--PrP {
+  margin-right: 6.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-s83 .group-1-QzT .item--i7y {
+  margin-right: 5.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-s83 .group-1-QzT .item--CJ3 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-s83 .line-1-Jby {
+  width: 6.4rem;
+  height: 0;
+  position: absolute;
+  left: 55.5rem;
+  top: 16.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-s83 .rectangle-2-33m {
+  width: 22.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 159.1rem;
+  top: 10.5rem;
+  background: linear-gradient(92.95deg, #886ebe 10.35%, #b79be3 99.46%);
+  border-radius: 10rem;
+}
+.desktop-1-s83 .item--v7Z {
+  width: 10.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 165.9rem;
+  top: 12.3rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.1825;
+  color: #000000;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-s83 .mouse-pointer-1Pu {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 67rem;
+  top: 66.4rem;
+  overflow: hidden;
+}
+.desktop-1-s83 .shape-YPq {
+  width: 115.2rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 36.2rem;
+}
+.desktop-1-s83 .shape-YPq .crbn-sh1 {
+  margin-bottom: 15rem;
+  max-width: 115.2rem;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Rubik One, 'Source Sans Pro';
+}
+.desktop-1-s83 .shape-YPq .group-3-m1h {
+  box-sizing: border-box;
+  padding: 2.5rem 7.1rem 2rem 6.8rem;
+  width: 54rem;
+  height: 11.9rem;
+  background-color: #d9d9d9;
+  border-radius: 10rem;
+}
+.desktop-1-s83 .shape-YPq .group-3-m1h .group-2-HEw {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-s83 .shape-YPq .group-3-m1h .group-2-HEw .auto-group-xp5y-qXM {
+  margin-right: 1rem;
+  width: 7.4rem;
+  height: 7.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-s83 .shape-YPq .group-3-m1h .group-2-HEw .smiles-A3q {
+  margin-bottom: 0.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.1825;
+  color: #000000;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-s83 .group-4-Tod {
+  width: 54rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 86.5rem;
+  top: 81rem;
+  border-radius: 10rem;
+}
+.desktop-1-s83 .group-4-Tod .item--CFR {
+  width: 47rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 5rem;
+  top: 3.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-s83 .group-4-Tod .rectangle-4-GFH {
+  width: 54rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-sizing: border-box;
+  backdrop-filter: blur(10.3rem);
+  border-radius: 10rem;
+}

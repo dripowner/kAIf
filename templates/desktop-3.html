@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Desktop - 3</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jura%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="../static/desktop-3.css"/>
+</head>
+<body>
+<div class="desktop-3-3v7">
+  <div class="auto-group-fpab-bRq">
+    <div class="auto-group-p5sd-X4b">
+      <img class="codesandbox-Ejh" src="../static/codesandbox-p1m.png"/>
+      <p class="kalf-mUj">kAlf</p>
+      <p class="company-4ij">company</p>
+    </div>
+    <div class="auto-group-szzb-y51">
+      <div class="group-1-UXZ">
+        <p class="item--p5d">Главная</p>
+        <p class="item--XEw">О нас</p>
+        <p class="item--eaT">Генерация структур</p>
+        <p class="item--YQw">Контакты</p>
+      </div>
+      <img class="line-1-fVZ" src="../static/REPLACE_IMAGE:11:60"/>
+    </div>
+    <div class="auto-group-mvg3-13d">Войти</div>
+  </div>
+
+  <form method="post">
+    <p class="smiles-Gdm">
+      <span class="smiles-Gdm-sub-0">Введите химическую формулу </span>
+      <span class="smiles-Gdm-sub-1"> &nbsp в формате SMILES</span>
+    </p>
+    <input type="text" name="text" class="rectangle-5-BMR" autocomplete="off" required> 
+    <input type="submit" class="auto-group-qioh-1tB">
+  </form>
+  <div class="results">
+    <p class="text">
+      {% if smi %}
+      Ваша формула в формате SMILES: {{ smi }}
+      {% endif %}  
+    </p>
+    <p class="text">
+      {% if res %}
+      {{ res }}
+      {% endif %}
+    </p>
+    <div class="picplace">
+      {% if image_data %}
+      <img src="{{ image_data }}" alt="My Image" class="picplace">
+      {% endif %}
+    </div>
+    {% if res %}
+    <div class="tableplace">
+      <table id="table" class="table">
+        <tr>
+        <th style="width: 30%;">Категория</th>
+        <th style="width: 70%;">Значение аффинности, µМ</th>
+        </tr>
+        <tr><td>A</td><td>&#x3C 1</td></tr>
+        <tr><td>B</td><td>1 - 10</td></tr>
+        <tr><td>C</td><td>10 - 100</td></tr>
+        <tr><td>D</td><td>&#x3E 100</td></tr>
+      </table>
+    </div>
+    {% endif %}
+  </div>
+</div>
+</body>

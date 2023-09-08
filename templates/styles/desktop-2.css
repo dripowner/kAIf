@@ -1,0 +1,178 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-2-Rv7 {
+  width: 100%;
+  height: 101.3rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(105.56deg, #0c002a 0%, #000000 100%);
+}
+.desktop-2-Rv7 .shape-mUB {
+  width: 173rem;
+  height: 173rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-Rv7 .codesandbox-hsd {
+  width: 3rem;
+  height: 3.3463rem;
+  position: absolute;
+  left: 14rem;
+  top: 10.9337rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-Rv7 .kalf-qD9 {
+  width: 6.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 10.3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Rv7 .company-Wq5 {
+  width: 9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 15rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Rv7 .group-1-pas {
+  width: 88rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53rem;
+  top: 12.5rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-Rv7 .group-1-pas .item--Z2f {
+  margin-right: 6.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Rv7 .group-1-pas .item--Tdq {
+  margin-right: 6.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Rv7 .group-1-pas .item--aiT {
+  margin-right: 5.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Rv7 .group-1-pas .item--5fD {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Rv7 .line-1-oLK {
+  width: 6.4rem;
+  height: 0;
+  position: absolute;
+  left: 73.3rem;
+  top: 16.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-Rv7 .rectangle-2-YHu {
+  width: 22.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 159.1rem;
+  top: 10.5rem;
+  background: linear-gradient(92.95deg, #886ebe 10.35%, #b79be3 99.46%);
+  border-radius: 10rem;
+}
+.desktop-2-Rv7 .item--ebq {
+  width: 81.3rem;
+  height: 14.2rem;
+  position: absolute;
+  left: 40.7rem;
+  top: 69.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  color: #ffffff;
+  font-family: Jura, 'Source Sans Pro';
+}
+.desktop-2-Rv7 .item--BEP {
+  width: 10.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 165.9rem;
+  top: 12.3rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.1825;
+  color: #000000;
+  font-family: Jura, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Rv7 .ellipse-1-5af {
+  width: 18.7rem;
+  height: 18.7rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 67.1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 9.35rem;
+}
+.desktop-2-Rv7 .arrow-right-miP {
+  width: 2.9167rem;
+  height: 2.9167rem;
+  position: absolute;
+  left: 25.3417rem;
+  top: 75.0417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
