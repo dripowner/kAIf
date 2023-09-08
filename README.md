@@ -7,3 +7,5 @@
 4. Никита Кочерин (tg: @nkocherin)
 5. Маркас Каспаравичюс (tg: @Araara21)
 
+## Ссылка на видео с демонстрацией
+[Демонстрация](https://drive.google.com/file/d/14DKdH0Ok_WfR_LFQUqORXyJzN5M2bSqt/view?usp=sharing)
