@@ -15,7 +15,7 @@ loaded_model = AttentiveFP(out_channels=4, # active or inactive
                     in_channels=4, edge_dim=2,
                     hidden_channels=200, num_layers=3, num_timesteps=2,
                     dropout=0.2)
-loaded_model.load_state_dict(torch.load('../models/best_test_afp.model'))
+loaded_model.load_state_dict(torch.load('./models/best_test_afp.model'))
 print("model loaded succesfully")
 
 grades_map = {0: ["D", "высокое", "> 100"], 
