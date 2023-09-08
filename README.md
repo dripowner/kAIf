@@ -9,3 +9,13 @@
 
 ## Ссылка на видео с демонстрацией
 [Демонстрация](https://drive.google.com/file/d/14DKdH0Ok_WfR_LFQUqORXyJzN5M2bSqt/view?usp=sharing)
+
+## Ссылка на видео с демонстрацией
+В проекте используются собранные из патентов вручную данные
+
+## Модели
+- RandomForest
+- GNN AttentiveFP
+
+## Веб-интерфейс
+- Flask 
